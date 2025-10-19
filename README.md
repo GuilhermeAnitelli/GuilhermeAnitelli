@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="left">Olá 👋!</h1>
 
-<!--
-**GuilhermeAnitelli/GuilhermeAnitelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Meu nome é Guilherme Anitelli.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim:</h2>
+
+###
+
+<br clear="both">
+
+<img align="right" height="220" src="https://cdn.pixabay.com/photo/2016/12/26/08/41/coding-1931667_1280.png"  />
+
+###
+
+<p align="left">Moro atualmente em Osasco e sou estudante do 1° semestre de Análise e Desenvolvimento de Sistemas.<br><br>💻 Busco através da programação melhorar minha qualidade de vida!<br>📚 Atualmente curso o 1° semestre de Análise e Desenvolvimento de Sistemas, na Faculdade de Informática e Administração Paulista - FIAP. <br>🎯 Tenho como objetivo a cada dia melhorar meus códigos e programas para serem os mais funcionais e satisfatórios.<br>📍Osasco, SP - Brasil</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Atualmente utilizo:</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="35" alt="pycharm logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://linkedin.com/in/guilherme-anitelli" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeanitelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermeanitelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
