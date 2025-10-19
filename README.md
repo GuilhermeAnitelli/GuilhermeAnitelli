@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="220" src="https://cdn.pixabay.com/photo/2016/12/26/08/41/coding-1931667_1280.png"  />
+<img align="right" height="250" src="https://cdn.pixabay.com/photo/2016/12/26/08/41/coding-1931667_1280.png"  />
 
 ###
 
@@ -47,11 +47,11 @@
 </div>
 
 ###
-
+------
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeanitelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeanitelli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermeanitelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<p align="left">Contatos:</p>
+<h2 align="left">Contatos:</h2>
 
 ###
 
