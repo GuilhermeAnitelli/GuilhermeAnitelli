@@ -1,10 +1,10 @@
 <h1 align="left">Olá 👋!</h1>
 
-###
-
-<p align="left">Meu nome é Guilherme Anitelli.</p>
+<h3 align="left">Meu nome é Guilherme Anitelli.</h3>
 
 ###
+------
+
 
 <h2 align="left">Sobre mim:</h2>
 
