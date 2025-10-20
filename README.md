@@ -1,6 +1,6 @@
-<h1 align="left">Olá 👋!</h1>
+<h1 align="left">Olá, seja bem-vindo(a)👋!</h1>
 
-<h3 align="left">Meu nome é Guilherme Anitelli.</h3>
+<h3 align="left">Meu nome é Guilherme Anitelli, estou iniciando no ramo de programação.</h3>
 
 ###
 ------
