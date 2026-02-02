@@ -18,7 +18,7 @@ class GuilhermeAnitelli:
         self.nome = "Guilherme Anitelli"
         self.localização = "Osasco, SP - Brasil 📍"
         self.formação = "Análise e Desenvolvimento de Sistemas - FIAP"
-        self.semestre = "1º Semestre"
+        self.semestre = "2º Semestre"
         self.objetivo = "Transformar código em soluções"
         
     def sobre_mim(self):
